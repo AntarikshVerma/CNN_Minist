@@ -34,6 +34,6 @@ The CNN model consists of the following layers:
 
 The CNN model achieves over 99% accuracy on the test dataset. Detailed results and visualizations can be found in the notebooks/MNIST_CNN.ipynb notebook.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
